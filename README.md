@@ -4,7 +4,7 @@ This repo contains a script to prepare a tidy data set from the experiment *Huma
 
 All raw data can be obtained here:
 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## How to use the script
 
